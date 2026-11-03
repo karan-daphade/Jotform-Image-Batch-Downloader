@@ -1,0 +1,22 @@
+# Python environment & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+venv/
+env/
+
+# Downloaded files & generated reports
+downloaded_images/*
+!downloaded_images/.gitkeep
+downloaded.csv
+failed.csv
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Uncomment the line below if images.xlsx contains confidential farmer data
+# images.xlsx
+
